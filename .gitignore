@@ -1,0 +1,33 @@
+./.metadata/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+**/.attach_*
+src/main/resources/static/bower_components/
+release.properties
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+.vscode
+.metadata
+*.iws
+*.iml
+*.ipr
+*.log
+../.idea/encodings.xml
+
+### NetBeans ###
+nbproject/private/
+build/
+logs/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
